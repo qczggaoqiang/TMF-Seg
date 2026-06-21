@@ -111,10 +111,14 @@ If you use the released text annotations of MosMedData+ or QaTa-COV19, please al
 
 ```bibtex
 @article{li2023lvit,
-  title={LViT: Language Meets Vision Transformer in Medical Image Segmentation},
+  title={Lvit: language meets vision transformer in medical image segmentation},
   author={Li, Zihan and Li, Yunxiang and Li, Qingde and Wang, Puyang and Guo, Dazhou and Lu, Le and Jin, Dakai and Zhang, You and Hong, Qingqi},
-  journal={IEEE Transactions on Medical Imaging},
-  year={2023}
+  journal={IEEE transactions on medical imaging},
+  volume={43},
+  number={1},
+  pages={96--107},
+  year={2023},
+  publisher={IEEE}
 }
 ```
 
