@@ -101,7 +101,7 @@ If you find this work useful, please cite:
 ```bibtex
 @inproceedings{gao2026tmfseg,
   title={Text-Guided Multi-Frequency Latent Diffusion for Medical Image Segmentation},
-  author={Gao, Qiang and Wang, Yi and Zhang, Yong and Li, Yong and Du, Lan and Chen, Cunjian},
+  author={Gao, Qiang and Wang, Yi and Zhang, Yong and Du, Lan and Li, Yong and Chen, Cunjian},
   booktitle={International Conference on Medical Image Computing and Computer-Assisted Intervention},
   year={2026}
 }
