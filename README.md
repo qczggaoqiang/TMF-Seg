@@ -48,22 +48,22 @@ These datasets contain paired images, masks, and text annotations. We use the re
 
 For Kvasir-SEG, the image-mask pairs can be downloaded from the official dataset source. The corresponding text annotations are available upon reasonable request by email.
 
-Recommended dataset structure:
+Recommended dataset structure, using Kvasir-SEG as an example:
 
 ```text
-datasets/
-├── Kvasir-SEG/
-│   ├── images/
+Kvasir-SEG/
+├── train/
+│   ├── frames/
 │   ├── masks/
-│   └── text/
-├── MosMedData+/
-│   ├── images/
+│   └── KSeg_train.xlsx
+├── val/
+│   ├── frames/
 │   ├── masks/
-│   └── text/
-└── QaTa-COV19/
-    ├── images/
+│   └── KSeg_val.xlsx
+└── test/
+    ├── frames/
     ├── masks/
-    └── text/
+    └── KSeg_test.xlsx
 ```
 
 Please update the image, mask, and text annotation paths in the corresponding configuration files under `configs/`.
