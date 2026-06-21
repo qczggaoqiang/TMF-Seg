@@ -101,7 +101,7 @@ If you find this work useful, please cite:
 ```bibtex
 @inproceedings{gao2026tmfseg,
   title={Text-Guided Multi-Frequency Latent Diffusion for Medical Image Segmentation},
-  author={Gao, Qiang and Wang, Yi and Zhang, Yong and Li, Yong and Deng, Yongbing and Du, Lan and Chen, Cunjian},
+  author={Gao, Qiang and Wang, Yi and Zhang, Yong and Li, Yong and Du, Lan and Chen, Cunjian},
   booktitle={International Conference on Medical Image Computing and Computer-Assisted Intervention},
   year={2026}
 }
@@ -121,8 +121,3 @@ If you use the released text annotations of MosMedData+ or QaTa-COV19, please al
 ## License
 
 This project is released under the license provided in this repository.
-
-## Contact
-
-- Qiang Gao: Qiang.Gao@monash.edu
-- Cunjian Chen: Cunjian.Chen@monash.edu
